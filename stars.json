@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Azure/Azure-Sentinel",
-    "stargazers_count": 2235,
-    "open_issues_count": 178,
-    "forks_count": 1564
+    "stargazers_count": 2237,
+    "open_issues_count": 181,
+    "forks_count": 1568
   },
   {
     "full_name": "nokia/danm",
@@ -13,39 +13,39 @@
   },
   {
     "full_name": "screetsec/TheFatRat",
-    "stargazers_count": 6393,
+    "stargazers_count": 6396,
     "open_issues_count": 32,
-    "forks_count": 1959
+    "forks_count": 1960
   },
   {
     "full_name": "inspec/inspec",
     "stargazers_count": 2497,
-    "open_issues_count": 361,
+    "open_issues_count": 362,
     "forks_count": 666
   },
   {
     "full_name": "xesina/golang-echo-realworld-example-app",
     "stargazers_count": 380,
     "open_issues_count": 0,
-    "forks_count": 101
+    "forks_count": 102
   },
   {
     "full_name": "Nyr/openvpn-install",
-    "stargazers_count": 14934,
+    "stargazers_count": 14943,
     "open_issues_count": 22,
-    "forks_count": 4007
+    "forks_count": 4012
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 86529,
+    "stargazers_count": 86638,
     "open_issues_count": 155,
-    "forks_count": 5748
+    "forks_count": 5754
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 81938,
-    "open_issues_count": 904,
-    "forks_count": 4378
+    "stargazers_count": 81959,
+    "open_issues_count": 909,
+    "forks_count": 4384
   },
   {
     "full_name": "gobwas/ws-examples",
@@ -55,33 +55,33 @@
   },
   {
     "full_name": "gobwas/ws",
-    "stargazers_count": 4513,
+    "stargazers_count": 4512,
     "open_issues_count": 8,
     "forks_count": 299
   },
   {
     "full_name": "canonical/microk8s",
-    "stargazers_count": 6403,
-    "open_issues_count": 438,
+    "stargazers_count": 6405,
+    "open_issues_count": 439,
     "forks_count": 644
   },
   {
     "full_name": "tektoncd/pipeline",
-    "stargazers_count": 7045,
-    "open_issues_count": 214,
-    "forks_count": 1477
+    "stargazers_count": 7046,
+    "open_issues_count": 219,
+    "forks_count": 1478
   },
   {
     "full_name": "GoogleCloudPlatform/terraformer",
-    "stargazers_count": 7280,
+    "stargazers_count": 7289,
     "open_issues_count": 51,
-    "forks_count": 978
+    "forks_count": 982
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 32225,
-    "open_issues_count": 1602,
-    "forks_count": 7538
+    "stargazers_count": 32240,
+    "open_issues_count": 1603,
+    "forks_count": 7542
   },
   {
     "full_name": "GoogleCloudPlatform/inspec-gcp-cis-benchmark",
@@ -91,25 +91,25 @@
   },
   {
     "full_name": "themesberg/windows-95-ui-kit",
-    "stargazers_count": 359,
+    "stargazers_count": 360,
     "open_issues_count": 1,
     "forks_count": 29
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 51225,
+    "stargazers_count": 51228,
     "open_issues_count": 49,
     "forks_count": 1302
   },
   {
     "full_name": "nccgroup/ScoutSuite",
-    "stargazers_count": 4166,
-    "open_issues_count": 149,
-    "forks_count": 637
+    "stargazers_count": 4169,
+    "open_issues_count": 150,
+    "forks_count": 638
   },
   {
     "full_name": "vmware-tanzu/octant",
-    "stargazers_count": 5793,
+    "stargazers_count": 5794,
     "open_issues_count": 266,
     "forks_count": 417
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "tipsy/profile-summary-for-github",
-    "stargazers_count": 19547,
+    "stargazers_count": 19550,
     "open_issues_count": 16,
-    "forks_count": 485
+    "forks_count": 484
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 44542,
-    "open_issues_count": 493,
-    "forks_count": 5457
+    "stargazers_count": 44554,
+    "open_issues_count": 502,
+    "forks_count": 5462
   },
   {
     "full_name": "tzutalin/labelImg",
-    "stargazers_count": 17166,
+    "stargazers_count": 17177,
     "open_issues_count": 336,
-    "forks_count": 5376
+    "forks_count": 5380
   },
   {
     "full_name": "amcquistan/bridging-node-and-python",
