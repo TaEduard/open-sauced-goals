@@ -1,14 +1,14 @@
 [
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 33070,
-    "open_issues_count": 1613,
-    "forks_count": 7692
+    "stargazers_count": 33077,
+    "open_issues_count": 1619,
+    "forks_count": 7695
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 89440,
-    "open_issues_count": 2344,
-    "forks_count": 32789
+    "stargazers_count": 89469,
+    "open_issues_count": 2358,
+    "forks_count": 32805
   }
 ]
