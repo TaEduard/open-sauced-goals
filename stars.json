@@ -1,51 +1,51 @@
 [
   {
     "full_name": "Azure/Azure-Sentinel",
-    "stargazers_count": 2396,
-    "open_issues_count": 311,
-    "forks_count": 1725
+    "stargazers_count": 2400,
+    "open_issues_count": 308,
+    "forks_count": 1728
   },
   {
     "full_name": "nokia/danm",
-    "stargazers_count": 318,
+    "stargazers_count": 319,
     "open_issues_count": 19,
     "forks_count": 78
   },
   {
     "full_name": "screetsec/TheFatRat",
-    "stargazers_count": 6649,
+    "stargazers_count": 6651,
     "open_issues_count": 39,
-    "forks_count": 1987
+    "forks_count": 1986
   },
   {
     "full_name": "inspec/inspec",
     "stargazers_count": 2520,
-    "open_issues_count": 356,
+    "open_issues_count": 362,
     "forks_count": 670
   },
   {
     "full_name": "xesina/golang-echo-realworld-example-app",
-    "stargazers_count": 386,
+    "stargazers_count": 387,
     "open_issues_count": 0,
     "forks_count": 102
   },
   {
     "full_name": "Nyr/openvpn-install",
-    "stargazers_count": 15266,
-    "open_issues_count": 29,
-    "forks_count": 4100
+    "stargazers_count": 15273,
+    "open_issues_count": 30,
+    "forks_count": 4101
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 92905,
-    "open_issues_count": 148,
-    "forks_count": 5976
+    "stargazers_count": 93087,
+    "open_issues_count": 149,
+    "forks_count": 5982
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 83307,
+    "stargazers_count": 83470,
     "open_issues_count": 927,
-    "forks_count": 4482
+    "forks_count": 4490
   },
   {
     "full_name": "gobwas/ws-examples",
@@ -55,73 +55,73 @@
   },
   {
     "full_name": "gobwas/ws",
-    "stargazers_count": 4597,
+    "stargazers_count": 4598,
     "open_issues_count": 8,
     "forks_count": 306
   },
   {
     "full_name": "canonical/microk8s",
-    "stargazers_count": 6563,
-    "open_issues_count": 485,
-    "forks_count": 657
+    "stargazers_count": 6568,
+    "open_issues_count": 482,
+    "forks_count": 656
   },
   {
     "full_name": "tektoncd/pipeline",
-    "stargazers_count": 7168,
+    "stargazers_count": 7173,
     "open_issues_count": 237,
-    "forks_count": 1520
+    "forks_count": 1521
   },
   {
     "full_name": "GoogleCloudPlatform/terraformer",
-    "stargazers_count": 7849,
+    "stargazers_count": 7859,
     "open_issues_count": 61,
-    "forks_count": 1054
+    "forks_count": 1058
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 33171,
+    "stargazers_count": 33204,
     "open_issues_count": 1621,
-    "forks_count": 7711
+    "forks_count": 7722
   },
   {
     "full_name": "GoogleCloudPlatform/inspec-gcp-cis-benchmark",
     "stargazers_count": 96,
-    "open_issues_count": 11,
+    "open_issues_count": 9,
     "forks_count": 46
   },
   {
     "full_name": "themesberg/windows-95-ui-kit",
-    "stargazers_count": 378,
+    "stargazers_count": 379,
     "open_issues_count": 1,
     "forks_count": 31
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57851,
+    "stargazers_count": 57876,
     "open_issues_count": 61,
-    "forks_count": 1363
+    "forks_count": 1365
   },
   {
     "full_name": "nccgroup/ScoutSuite",
-    "stargazers_count": 4383,
-    "open_issues_count": 146,
+    "stargazers_count": 4389,
+    "open_issues_count": 150,
     "forks_count": 687
   },
   {
     "full_name": "vmware-tanzu/octant",
-    "stargazers_count": 5918,
-    "open_issues_count": 275,
+    "stargazers_count": 5922,
+    "open_issues_count": 276,
     "forks_count": 425
   },
   {
     "full_name": "coinbase/terraform-landscape",
-    "stargazers_count": 1403,
+    "stargazers_count": 1404,
     "open_issues_count": 7,
     "forks_count": 98
   },
   {
     "full_name": "allegro/ralph",
-    "stargazers_count": 1811,
+    "stargazers_count": 1812,
     "open_issues_count": 120,
     "forks_count": 480
   },
@@ -133,20 +133,20 @@
   },
   {
     "full_name": "tipsy/profile-summary-for-github",
-    "stargazers_count": 19597,
-    "open_issues_count": 15,
+    "stargazers_count": 19596,
+    "open_issues_count": 17,
     "forks_count": 484
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 45968,
-    "open_issues_count": 407,
-    "forks_count": 5642
+    "stargazers_count": 45994,
+    "open_issues_count": 410,
+    "forks_count": 5643
   },
   {
     "full_name": "tzutalin/labelImg",
-    "stargazers_count": 17676,
-    "open_issues_count": 356,
+    "stargazers_count": 17697,
+    "open_issues_count": 357,
     "forks_count": 5454
   },
   {
@@ -165,7 +165,7 @@
     "full_name": "btholt/complete-intro-to-react-v5",
     "stargazers_count": 3729,
     "open_issues_count": 53,
-    "forks_count": 1205
+    "forks_count": 1203
   },
   {
     "full_name": "timhberry/gke-tf-demo",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "hashicorp/terraform-provider-kubernetes",
-    "stargazers_count": 1215,
-    "open_issues_count": 241,
-    "forks_count": 787
+    "stargazers_count": 1218,
+    "open_issues_count": 239,
+    "forks_count": 788
   }
 ]
